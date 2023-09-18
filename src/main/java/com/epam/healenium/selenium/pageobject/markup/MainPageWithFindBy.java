@@ -4,7 +4,6 @@ import com.epam.healenium.annotation.DisableHealing;
 import com.epam.healenium.selenium.pageobject.SeleniumBasePage;
 import com.epam.healenium.selenium.pageobject.testenv.TestEnvPage;
 import io.qameta.allure.Step;
-import org.glassfish.jaxb.runtime.v2.runtime.unmarshaller.TagName;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;

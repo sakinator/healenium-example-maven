@@ -15,7 +15,7 @@
         <junit.version>5.7.0</junit.version>
         <log4j.version>2.13.0</log4j.version>
         <hamcrest.version>2.2</hamcrest.version>
-        <webdrivermanager.version>4.2.0</webdrivermanager.version>
+        <webdrivermanager.version>5.5.3</webdrivermanager.version>
 
         <selenium.version>4.9.0</selenium.version>
         <selenide.version>6.3.4</selenide.version>
