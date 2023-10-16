@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.epam.healenium.tests.FirstTest"/>
+      <class name="com.epam.healenium.tests.FirstTestTest2"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
