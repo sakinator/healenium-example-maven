@@ -39,7 +39,7 @@ public class FirstTestTest2
 		System.out.println("RoundTrip");
 		Thread.sleep(2000);
 		//change
-		driver.findElement(By.xpath ("//input[@ng-model='RoundTrip_Fare']/following-sibling::span")).click();
+		driver.findElement(By.xpath("//input[@ng-model='RoundTrip_Fare']/following-sibling::span")).click();
 		Thread.sleep(2000);
 		driver.findElement(By.xpath ("(//input[@placeholder='Select Origin City'])[1]")).click();
 		Thread.sleep(2000);
